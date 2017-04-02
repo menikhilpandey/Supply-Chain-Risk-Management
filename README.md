@@ -1,0 +1,2 @@
+## Supply Chain Risk Management
+SRM is the implementation of strategies to manage both everyday and exceptional risks along the supply chain based on continuous risk assessment with the objective of reducing vulnerability and ensuring continuity. This project is based on Sentiment Analytics, NLP and Machine learning.
